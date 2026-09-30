@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_dark_blue">#1976D2</color>
+    <color name="primary_light_blue">#64B5F6</color>
+
+    <!-- Акцентные цвета -->
+    <color name="accent_orange">#FF9800</color>
+    <color name="accent_dark_orange">#F57C00</color>
+    <color name="accent_light_orange">#FFB74D</color>
+
+    <!-- Фоновые цвета -->
+    <color name="dark_bg">#121212</color>
+    <color name="surface_gray">#1E1E1E</color>
+    <color name="card_bg">#2D2D2D</color>
+
+    <!-- Текст и элементы -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#B0B0B0</color>
+    <color name="medium_gray">#757575</color>
+    <color name="dark_gray">#424242</color>
+
+    <!-- Градиенты для результата -->
+    <color name="gradient_start">#2196F3</color>
+    <color name="gradient_end">#FF9800</color>
+
+    <!-- Статусы -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FFC107</color>
+</resources>
